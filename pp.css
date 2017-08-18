@@ -1,0 +1,14 @@
+body {background-color:black; color:gray;}
+
+.titulo {font-size:200%; font-family:arial;}
+.titulo a {color:gray; text-decoration:none;}
+.titulo a:hover {background-color:gray; color:black;}
+
+.intro {font-size:130%; color:white;}
+input {background-color:black; color:gray; font-weight:bold}
+input:focus {color:white;}
+
+
+.pie {font-size:100%; color:gray;}
+.pie a {font-size:100%; color:gray;}
+.pie a:hover {background-color:gray; color:black;}
